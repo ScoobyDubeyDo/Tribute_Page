@@ -33,3 +33,20 @@ main {
   padding: 30px 0;
   font-weight: 700;
 }
+
+#tribute-info {
+  margin-left: 450px;
+  margin-right: 450px;
+}
+
+#tribute-info ul {
+  text-align: initial;
+}
+
+#bold {
+  font-size: 18px;
+}
+
+#bold a:any-link {
+  color: rgb(71, 124, 167);
+}
